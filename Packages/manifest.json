@@ -4,9 +4,13 @@
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
     "com.unity.postprocessing": "2.3.0",
+<<<<<<< HEAD
     "com.unity.render-pipelines.universal": "7.1.8",
     "com.unity.shadergraph": "7.1.8",
     "com.unity.test-framework": "1.1.9",
+=======
+    "com.unity.test-framework": "1.1.11",
+>>>>>>> 552776babcc9ac9c8d3cd54004a3d7ab508e9e82
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.10",
     "com.unity.ugui": "1.0.0",
